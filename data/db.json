@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "details": "Praesent imperdiet ultrices dolor cursus faucibus. Etiam venenatis mattis nisl, a fermentum nulla egestas quis. Aenean tincidunt auctor porttitor. Duis lobortis lectus dolor, et semper tellus iaculis tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In accumsan nulla e",
+      "title": "Birthday Bash",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "details": "Sed vitae feugiat est. Morbi elit enim, consequat sed elementum et, elementum eget dolor. Aliquam lacus felis, commodo vitae lacinia ut, finibus nec tellus. Aenean tristique, nisi eget pharetra tempus, lorem arcu molestie est, eu convallis nibh lorem et enim. Ut sit amet tempor justo. Ut sopellentesque tincidunt nisl. Mauris sit amet elit nec dui faucibus fringilla. Fusce volutpat justo vel luctus malesuada",
+      "title": "Make a frontend website",
+      "category": "work",
+      "id": 7
+    }
+  ]
+}
